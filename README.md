@@ -4,11 +4,10 @@
 [![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://gatings.cn/atom.xml&style=flat-square)](https://gatings.cn/atom.xml)
 
 <a href="https://github.com/gating">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img height="285" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gating" alt="最常用的语言" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gating" alt="最常用的语言"/>
 </a>
 <a href="https://github.com/gating">
-  <img height="285" src="https://github-readme-stats.vercel.app/api?username=gating" alt="我的 GitHub 数据" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gating&show_icons=true&line_height=40&count_private=true&include_all_commits=true" alt="我的 GitHub 数据" />
 </a>
 
 **Languages and Tools:**
